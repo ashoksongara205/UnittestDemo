@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33af6012-a29c-4667-8995-a5b4a4005e1a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4d91e0af0805" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aNyp6MvFQgiKXPr3XMftpoxFYs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/lib/common" />
+      <recent name="$PROJECT_DIR$/test/bloc" />
+      <recent name="$PROJECT_DIR$/test/jsonresponse" />
+      <recent name="$PROJECT_DIR$/test/repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/ui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="GetCountryList" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="GetCountryList" />
+      <option name="testFile" value="$PROJECT_DIR$/test/bloc/country_bloc_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Perform get nationality list api ---&gt;  Error response" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Perform get nationality list api ---&gt;  Error response" />
+      <option name="testFile" value="$PROJECT_DIR$/test/repository/mi_repository_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emits [CountrySelectedState()] when [NationalitySelectedEvent()] event is added" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="emits [CountrySelectedState()] when [NationalitySelectedEvent()] event is added" />
+      <option name="testFile" value="$PROJECT_DIR$/test/bloc/country_bloc_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emits [Loading, Complete] when successful" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="emits [Loading, Complete] when successful" />
+      <option name="testFile" value="$PROJECT_DIR$/test/bloc/country_bloc_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getCountryList" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="getCountryList" />
+      <option name="testFile" value="$PROJECT_DIR$/test/repository/mi_repository_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.emits [Loading, Complete] when successful" />
+        <item itemvalue="Flutter Test.GetCountryList" />
+        <item itemvalue="Flutter Test.emits [CountrySelectedState()] when [NationalitySelectedEvent()] event is added" />
+        <item itemvalue="Flutter Test.Perform get nationality list api ---&gt;  Error response" />
+        <item itemvalue="Flutter Test.getCountryList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33af6012-a29c-4667-8995-a5b4a4005e1a" name="Default Changelist" comment="" />
+      <created>1586590525828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586590525828</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- Bloc unit test implemented&#10;- Api and Repository Testing implemented&#10;- Use Global keys and Value keys">
+      <created>1586613800436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586613800436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Bloc unit test implemented&#10;- Api and Repository Testing implemented&#10;- Use Global keys and Value keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Bloc unit test implemented&#10;- Api and Repository Testing implemented&#10;- Use Global keys and Value keys" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/test/repository/mi_repository_test.dart</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
