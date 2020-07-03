@@ -38,7 +38,7 @@ class _WebviewDemoState extends State<WebviewDemo> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: WebView(
-        initialUrl: "https://uatlegolas.airasia.com/?key=b94e3780-98d9-11ea-b5c6-655b955e79e41589787147.25",
+        initialUrl: "https://google.com",
         javascriptMode: JavascriptMode.unrestricted,
         javascriptChannels: Set.from([
           JavascriptChannel(
